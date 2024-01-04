@@ -1,3 +1,14 @@
+## Requirement
+
+Node JS 18.7 or Higher
+
+
+## How to Run
+- configration base url API in src/api/constant.js (default is https://localhost:7107)
+- npm install
+- npm run dev
+- Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
